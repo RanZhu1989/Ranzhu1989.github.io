@@ -282,6 +282,15 @@ defaults:
       author_profile: true
       share: true
 
+      # _talks
+  - scope:
+      path: ""
+      type: teams
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
 
 # Sass/SCSS
 sass:
